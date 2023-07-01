@@ -12,6 +12,9 @@ public class SumCalculator {
             sum +=i;
         }
 
+
+        
+
         return sum;
     }
 
